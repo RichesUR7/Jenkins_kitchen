@@ -1,6 +1,3 @@
-Here’s a professional and comprehensive `README.md` file for the JENIKS KITCHEN website project:
-
-```markdown
 # JENIKS KITCHEN Website
 
 Welcome to the **JENIKS KITCHEN** website repository. This project showcases a modern, professional, and advanced eatery website that provides an excellent user experience for customers to explore the menu, place orders, get updates, and connect with the business.
